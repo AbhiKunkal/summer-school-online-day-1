@@ -13,9 +13,7 @@ This is a simple **personal portfolio website** created as part of the **"Summer
 ## 🛠️ Technologies Used
 
 - **HTML5**
-- **CSS3**
-- **JavaScript (Basic)**
-- **Responsive Web Design Principles**
+  
 
 ---
 
